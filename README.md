@@ -4,9 +4,9 @@
 
 Highlight the target source file (e.g., test1.c) based on the taint paths reading from the text file.
 
-![1](assets\1.png)
+![1](https://github.com/BOOSTERLEL/vscode-plugin/blob/master/assets/1.png)
 
-![2](assets\2.png)
+![2](https://github.com/BOOSTERLEL/vscode-plugin/blob/master/assets/1.png)
 
 ## Extension Settings
 
